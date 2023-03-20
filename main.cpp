@@ -1,3 +1,4 @@
+#define NOMINMAX
 #include "ggml.h"
 
 #include "utils.h"
